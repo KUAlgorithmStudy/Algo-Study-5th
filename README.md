@@ -8,4 +8,11 @@
 | ? |26090. 완전한 수열|[링크](https://www.acmicpc.net/problem/26090)| 조수현 |
 | ? |2343. 기타 레슨|[링크](https://www.acmicpc.net/problem/2343)| 김범창 |
 -------------
-
+### 2주차
+| 문제 종류 | 문제번호 | 링크 | 발표자 |
+| ----- | ----- | ----- | ----- |
+| ? |31926. 밤양갱|[링크](https://www.acmicpc.net/problem/31926)| ----- |
+| ? |1417. 국회의원 선거|[링크](https://www.acmicpc.net/problem/1417)| ----- |
+| ? |4969. 월요일-토요일|[링크](https://www.acmicpc.net/problem/4969)| ----- |
+| ? |6518. 오타 자동 수정|[링크](https://www.acmicpc.net/problem/6518)| ----- |
+-------------
