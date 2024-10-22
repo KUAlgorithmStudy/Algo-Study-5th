@@ -24,3 +24,9 @@
 | ? |1166. 선물|[링크](https://www.acmicpc.net/problem/1166)| 김범창 |
 | ? |9625. BABBA|[링크](https://www.acmicpc.net/problem/9625)| 김창민 |
 -------------
+| 문제 종류 | 문제번호 | 링크 | 발표자 |
+| ----- | ----- | ----- | ----- |
+| ? |1765. 닭싸움 팀 정하기|[링크](https://www.acmicpc.net/problem/1765)| ? |
+| ? |2174. 로봇 시뮬레이션|[링크](https://www.acmicpc.net/problem/2174)| ? |
+| ? |17387. 선분 교차 2|[링크](https://www.acmicpc.net/problem/17387)| ? |
+| ? |11048. 이동하|[링크](https://www.acmicpc.net/problem/11048)| ? |
