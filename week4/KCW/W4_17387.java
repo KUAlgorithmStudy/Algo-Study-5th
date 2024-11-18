@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ tjsimport java.util.Scanner;
 //17387 선분교차2
 public class Main {
     static class Point {
