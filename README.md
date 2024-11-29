@@ -39,3 +39,11 @@
 | ? |1194. 달이 차오른다, 가자.|[링크](https://www.acmicpc.net/problem/1194)| ? |
 | ? |16236. 아기 상어|[링크](https://www.acmicpc.net/problem/16236)| ? |
 | ? |13458. 시험 감독|[링크](https://www.acmicpc.net/problem/13458)| ? |
+-------------
+### 6주차
+| 문제 종류 | 문제번호 | 링크 | 발표자 |
+| ----- | ----- | ----- | ----- |
+| ? |16235. 나무 재테크|[링크](https://www.acmicpc.net/problem/16235)| ? |
+| ? |19236. 청소년 상어|[링크](https://www.acmicpc.net/problem/19236)| ? |
+| ? |16987. 계란으로 계란치기|[링크](https://www.acmicpc.net/problem/16987)| ? |
+| ? |1915. 가장 큰 정사각형|[링크](https://www.acmicpc.net/problem/1915)| ? |
